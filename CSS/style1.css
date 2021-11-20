@@ -111,18 +111,14 @@ body{
     }
     .icon{
         padding-bottom: 15px;
+        width: 36px;
     }
-    .cell_main_text{
-        font-size: 35px;
-    }
+    .cell_main_text{ font-size: 25px; }
     
-    .cell_sub_text{
-        font-size: 20px;
-    }
-    .first_image
-    {
-        left: -54px;
-    }
+    .cell_sub_text{ font-size: 16px; }
+
+    .first_image{ left: -54px; }
+    
     .container{
         grid-template-columns: 1fr 1fr;
         width: 500px;
